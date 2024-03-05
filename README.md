@@ -1,1 +1,2 @@
-AI-NLP
+Installing 
+step 1 - git clone 
